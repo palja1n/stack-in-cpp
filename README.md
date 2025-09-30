@@ -1,8 +1,8 @@
 # Stack in C++
 
-Name: Pal Jain  
-PRN: 24070123067
-Class: ENTC A3
+Name: Pal Jain   
+PRN: 24070123067  
+Class: ENTC A3 
 
 ---
 
